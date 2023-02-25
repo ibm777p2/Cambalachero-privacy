@@ -46,7 +46,7 @@ Información de contacto:
 Email: cambalacheroteam@gmail.com
 
 
-<br><br><br><br>
+<br><br>
 
 
 
