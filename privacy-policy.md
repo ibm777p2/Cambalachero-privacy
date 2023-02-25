@@ -1,3 +1,5 @@
+### Este documento está disponible en versiones tanto en español como en inglés.
+### This document is available in both Spanish and English versions.
 
 
 Política de Privacidad (Español)
@@ -42,6 +44,9 @@ Podemos actualizar nuestra Política de Privacidad de vez en cuando. Por lo tant
 Si tiene alguna pregunta o sugerencia acerca de nuestra Política de Privacidad, no dude en contactarnos.
 Información de contacto:
 Email: cambalacheroteam@gmail.com
+
+
+
 
 
 
