@@ -1,5 +1,5 @@
-## Este documento está disponible en versiones tanto en español como en inglés.
-## This document is available in both Spanish and English versions.
+##### Este documento está disponible en versiones tanto en español como en inglés.
+##### This document is available in both Spanish and English versions.
 
 
 
