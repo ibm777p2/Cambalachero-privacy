@@ -1,13 +1,9 @@
-###### Este documento está disponible en versiones tanto en español como en inglés.
-###### This document is available in both Spanish and English versions.
-
-<br><br><br><br>
-
-
-
 
 Política de Privacidad (Español)
 ----------------
+
+###### Este documento está disponible en versiones tanto en español como en inglés.
+###### This document is available in both Spanish and English versions.
 
 ### Introducción  
 Nuestra política de privacidad le ayudará a entender qué información recopilamos en Cambalachero, cómo la utilizamos y qué opciones tiene. Cambalacheroha creado la aplicación Cambalachero como una aplicación gratuita. Este SERVICIO es proporcionado por Cambalachero sin costo alguno y está destinado a ser utilizado tal cual. Si decide utilizar nuestro servicio, acepta la recopilación y uso de la información de acuerdo con esta política. La información personal que recopilamos se utiliza para proporcionar y mejorar el servicio. No utilizaremos ni compartiremos su información con nadie, excepto como se describe en esta política de privacidad. Los términos utilizados en esta política de privacidad tienen los mismos significados que en nuestros Términos y Condiciones, que se encuentran en nuestro sitio web, a menos que se defina de otra manera en esta política de privacidad.
