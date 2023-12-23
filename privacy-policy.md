@@ -43,7 +43,7 @@ Podemos actualizar nuestra Política de Privacidad de vez en cuando. Por lo tant
 ### Contáctanos 
 Si tiene alguna pregunta o sugerencia acerca de nuestra Política de Privacidad, no dude en contactarnos.
 Información de contacto:
-Email: cambalacheroteam@gmail.com
+Email: contact@cambalachero.com
 
 
 <br><br>
@@ -96,4 +96,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: cambalacheroteam@gmail.com
+Email: contact@cambalachero.com
