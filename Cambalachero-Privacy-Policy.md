@@ -4,7 +4,7 @@ Privacy Policy
 Please Read the Full Version Before Downloading, Accessing, or Otherwise Using the Service.
 If you do not agree to the terms of the privacy policy, please do not use the Service. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-It's important to note that by using our Service, your device ID will be sent to our app's external API. This is a crucial part of how our Service operates, allowing us to provide a more personalized experience and ensure the security and integrity of our Service. We handle this data with the utmost care and in compliance with this Privacy Policy and applicable laws.
+Additionally, our Service involves uploading users' image information. It's important to note that these images may be stored, processed, and analyzed to improve service functionality and user experience. We ensure that all image data is handled with the highest level of care and security, in compliance with this Privacy Policy and applicable laws. Users have the right to access, modify, and delete their image information at any time.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at HalsBlue unless otherwise defined in this Privacy Policy.
 
@@ -117,7 +117,7 @@ Política de privacidad
 Por Favor Lea la Versión Completa Antes de Descargar, Acceder o Usar el Servicio de Cualquier Otra Manera.
 Si no está de acuerdo con los términos de la política de privacidad, por favor no utilice el Servicio. Si decide utilizar nuestro Servicio, entonces acepta la recopilación y uso de información en relación con esta política. La Información Personal que recopilamos se utiliza para proporcionar y mejorar el Servicio. No utilizaremos ni compartiremos su información con nadie, excepto como se describe en esta Política de Privacidad.
 
-Es importante destacar que al usar nuestro Servicio, su ID de dispositivo será enviado a la API externa de nuestra aplicación. Esto es una parte crucial de cómo opera nuestro Servicio, permitiéndonos proporcionar una experiencia más personalizada y asegurar la seguridad e integridad de nuestro Servicio. Manejamos estos datos con el máximo cuidado y en conformidad con esta Política de Privacidad y las leyes aplicables.
+Adicionalmente, nuestro Servicio involucra la subida de información de imágenes de los usuarios. Es importante destacar que estas imágenes pueden ser almacenadas, procesadas y analizadas para mejorar la funcionalidad del servicio y la experiencia del usuario. Aseguramos que todos los datos de imágenes se manejan con el más alto nivel de cuidado y seguridad, en conformidad con esta Política de Privacidad y las leyes aplicables. Los usuarios tienen el derecho de acceder, modificar y eliminar su información de imagen en cualquier momento.
 
 Los términos utilizados en esta Política de Privacidad tienen los mismos significados que en nuestros Términos y Condiciones, los cuales están accesibles en HalsBlue a menos que se definan de otra manera en esta Política de Privacidad.
 
