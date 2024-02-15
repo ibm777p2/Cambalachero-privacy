@@ -6,7 +6,7 @@ If you do not agree to the terms of the privacy policy, please do not use the Se
 
 Additionally, our Service involves uploading users' image information. It's important to note that these images may be stored, processed, and analyzed to improve service functionality and user experience. We ensure that all image data is handled with the highest level of care and security, in compliance with this Privacy Policy and applicable laws. Users have the right to access, modify, and delete their image information at any time.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at HalsBlue unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Cambalchero unless otherwise defined in this Privacy Policy.
 
 ### Information We Collect
 When You use the Service, We collect Your personal information and other information about you. Sometimes, You will directly provide information. Other times, we will collect it automatically or by a third party. When Your express consent is required (e.g. if laws require), we will only collect your information if you expressly agree. By using the Service, You consent to Our collection, use, and disclosure of Your information. You may refuse or withdraw this consent at any time.
@@ -119,7 +119,7 @@ Si no está de acuerdo con los términos de la política de privacidad, por favo
 
 Adicionalmente, nuestro Servicio involucra la subida de información de imágenes de los usuarios. Es importante destacar que estas imágenes pueden ser almacenadas, procesadas y analizadas para mejorar la funcionalidad del servicio y la experiencia del usuario. Aseguramos que todos los datos de imágenes se manejan con el más alto nivel de cuidado y seguridad, en conformidad con esta Política de Privacidad y las leyes aplicables. Los usuarios tienen el derecho de acceder, modificar y eliminar su información de imagen en cualquier momento.
 
-Los términos utilizados en esta Política de Privacidad tienen los mismos significados que en nuestros Términos y Condiciones, los cuales están accesibles en HalsBlue a menos que se definan de otra manera en esta Política de Privacidad.
+Los términos utilizados en esta Política de Privacidad tienen los mismos significados que en nuestros Términos y Condiciones, los cuales están accesibles en Cambalchero a menos que se definan de otra manera en esta Política de Privacidad.
 
 ### Información que Recopilamos
 Cuando usa el Servicio, recopilamos su información personal y otra información sobre usted. A veces, usted proporcionará directamente la información. Otras veces, la recopilaremos automáticamente o a través de un tercero. Cuando se requiera su consentimiento expreso (por ejemplo, si lo exigen las leyes), solo recopilaremos su información si usted da su acuerdo expreso. Al usar el Servicio, usted consiente nuestra recopilación, uso y divulgación de su información. Puede rechazar o retirar este consentimiento en cualquier momento.
